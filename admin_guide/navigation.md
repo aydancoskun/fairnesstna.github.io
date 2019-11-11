@@ -1,4 +1,4 @@
-###Administrator Guide - Navigation
+### Administrator Guide - Navigation
 
 Welcome to the {{ site.application_name }} Administrator Guide. This guide describes the {{ site.application_name }} application and how to configure and use its many features.
  
