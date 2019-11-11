@@ -2,10 +2,10 @@
 
 # Name of website
 theme: jekyll-theme-cayman
-title: Fairness Time and Attendance (FairnessTNA)
+title: FairnessTNA
 
 # Short description of your site
-description: Workforce Management Software for tracking employee time and attendance, employee time clock software, employee scheduling software and payroll software all in a single package. Also calculate complex over time and premium time business policies and can identify labor costs attributed to branches and departments. Managers can now track and monitor their workforce easily.
+description: Fairness Time and Attendance is software for managing employee's time and pay
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
