@@ -4,6 +4,7 @@
 theme: jekyll-theme-cayman
 title: FairnessTNA
 github: aydancoskun/fairnesstna
+application_name: FairnessTNA
 
 # Short description of your site
 description: Fairness Time and Attendance is software for managing employee's time and pay
